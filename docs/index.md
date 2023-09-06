@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# CMATD kompendium
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Klicka för att följa länkarna till senaste versionen av dessa kompendium.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[MH1024 Metalliska material](https://github.com/VictorieeMan/KTH-MH1024-MetallMat-kompendium/blob/main/output/KTH-MH1024-metall-komp.pdf)
